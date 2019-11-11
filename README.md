@@ -1,3 +1,3 @@
 # tsilab1
 
-ssss
+sss
